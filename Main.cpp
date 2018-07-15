@@ -48,7 +48,7 @@ int main() {
 	cout << newObj4;
 
 
-	system("pause");
+	system("pause"); // Microsoft Visual Studio
 	return 0;
 }
 
